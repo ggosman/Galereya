@@ -1,0 +1,17 @@
+
+
+@font-face {
+    font-family: 'Druk Wide';
+    src: local('Druk Wide Bold'), local('Druk-Wide-Bold'),
+        url('../fonts/DrukTextWide-Bold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Druk Wide';
+    src: local('Druk Wide Light'), local('Druk-Wide-Light'),
+        url('../fonts/DrukTextWide-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
